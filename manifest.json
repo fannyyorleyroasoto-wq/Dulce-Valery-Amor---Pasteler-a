@@ -1,0 +1,8 @@
+{
+  "name": "Dulce Encanto",
+  "short_name": "Dulce Encanto",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff8f0",
+  "theme_color": "#d98b9b"
+}
